@@ -50,7 +50,7 @@ AI-powered Chromium extension that analyzes YouTube videos and provides deep ins
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/YouTube-Analyzer.git
+git clone https://github.com/riku-rio/YouTube-Analyzer.git
 ```
 
 2. Open Chrome and go to:
